@@ -1,0 +1,11 @@
+**/.vscode/
+*.o
+*.html
+*vgcore.*
+**/GenesisRelease/
+**/server/
+*.data
+*.data.old
+**oprofile_data/
+**/release/
+**/debug/
